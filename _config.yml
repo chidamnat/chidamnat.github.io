@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Chidam Gopal - AI & ML Engineer
+title: Chidam's blog
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! This is Chidam.
   This is my personal site and I share my interesting experience, posts about  
@@ -27,6 +27,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chidamnat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chidamnat2002
 github_username:  chidamnat
+linkedin_username: chidambara
+author: Chidam Gopal
+copyright: "2026"
 
 # Build settings
 theme: minima
